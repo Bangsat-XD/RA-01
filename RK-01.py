@@ -84,10 +84,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong password!"
-            os.system('xdg-open https://m.facebook.com/SO Mi musican')
+            os.system('xdg-open https://m.facebook.com/GARANGAN.KECHE')
     else:
         print "Wrong username!"
-        os.system('xdg-open https://m.facebook.com/SO MI musican,')
+        os.system('xdg-open https://m.facebook.com/GARANGAN.KECHE,')
 
 ##### LICENSE #####
 #=================#
