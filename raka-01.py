@@ -143,7 +143,7 @@ def login1():
 		print logo
 		print("\033[1;91m█████████████████████████")
 		time.sleep(0.05)
-		jalan('\033[1;96m[🚫]\x1b[1;97mDON'T USE OLD ACCOUNT\x1b[1;96m[🚫]' )
+		jalan('\033[1;96m[✖]\x1b[1;97mDONT USE OLD ACCOUNT\x1b[1;96m[✖]' )
 		time.sleep(0.05)
 		jalan('\033[1;96m[✔]\x1b[1;93mUSE NEW ACCOUNT TO LOGIN\x1b[1;96m[✔]' )
 		time.sleep(0.05)
